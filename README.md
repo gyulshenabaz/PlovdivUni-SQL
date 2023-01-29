@@ -16,4 +16,4 @@
 ![Alt text of the image](https://github.com/gyulshenabaz/PlovdivUni-SQL/blob/main/diagram.png)
 
 
-### SQL скрипта може да бъде наремен в task.sql
+### SQL скрипта може да бъде намерен в task.sql
